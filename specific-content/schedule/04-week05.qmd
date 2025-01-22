@@ -23,7 +23,7 @@
     <td><input type="checkbox" /></td>
     <td> Midterm Cheatsheet &nbsp; &nbsp; </td>
     <td></td>
-    <td><a href="https://mdogucu.github.io/stats67-fa24-slides/others/midterm/cheatsheet.pdf" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats67a-wi25-slides/others/midterm/cheatsheet.pdf" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></td>
     <td></td>
   </tr>
@@ -32,7 +32,7 @@
     <td><input type="checkbox" /></td>
     <td> Midterm Policies &nbsp; &nbsp; </td>
     <td></td>
-    <td><a href="https://mdogucu.github.io/stats67-fa24-slides/others/midterm/cover.pdf" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats67a-wi25-slides/others/midterm/cover.pdf" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></td>
     <td></td>
   </tr>
