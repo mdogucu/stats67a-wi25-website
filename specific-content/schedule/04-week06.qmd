@@ -62,8 +62,9 @@
   <tr>
     <td><input type="checkbox" /></td>
     <td> Homework 6: Inference for Single Proportion &nbsp; &nbsp; </td>
-    <td></td>
-    <td><a href="" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+    <td>There are three different hw6 assignments. Pick the one you like and only complete one of them.</td>
+    <td><a href="hw6-single-prop-gluten-free-pasta
+" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to Gradescope" target = "_blank"></i></a></td>
     <td>Feb 18, 9:30 am</td>
   </tr>
